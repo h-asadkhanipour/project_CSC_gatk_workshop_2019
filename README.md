@@ -6,7 +6,7 @@ I want to refine my bash script at the end.
 
 
 
-\# Timeline:
+# Timeline:
 
 * Start:	09/25/2025
-* End:	
+* End:	09/30/2025	
